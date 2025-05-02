@@ -77,8 +77,6 @@ Associated with HCL’s Product and Portfolio Vertical, with a broader vision of
 
 **<u>P</u>ERSONAL DETAILS**
 
-- DOB: 9th April 1983.
-- Marital Status: Married.
 - Nationality: Indian
 - Languages Known: English.
 
