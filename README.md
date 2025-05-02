@@ -1,23 +1,25 @@
 # SOORAJ RAJAGOPALAN
 
->Technical Architect | leveraging cutting-edge technologies to solve complex business challenges
+> Solution Architect | Applied AI | MCP with LLM | Cloud-Native Applications | Leveraging cutting-edge technologies to solve complex business challenges
 
 Athlone, Ireland | +353 0892164553 | [sooraj.r@live.com](mailto:sooraj.r@live.com) | [https://www.linkedin.com/in/sooraj-rajagopalan/](https://www.linkedin.com/in/sooraj-rajagopalan/)
 
 **<u>P</u>ROFILE SUMMARY**
 
-I am passionate about designing scalable solutions and fostering innovation, excelling at using advanced technologies to tackle complex business challenges. With a solid background in cloud-native development and DevOps practices, I focus on creating robust, resilient, and high-performance architectures.
+Innovative and results-driven Architect specializing in Applied AI and AI-enabled application development, with a strong track record of designing scalable, cloud-native solutions that drive business transformation. Combining deep expertise in AI, DevOps, and microservices with modern cloud platforms, I architect intelligent systems that are not only scalable and secure but also optimized for real-world impact. Skilled in leading cross-functional teams and managing end-to-end project lifecycles—from ideation and design to deployment and optimization—while aligning technology with business objectives.
 
-Skilled in planning, managing, coordinating, and executing projects. Excel in end-to-end client management by understanding customer needs, collaborating with various teams, and ensuring maximum satisfaction.
+With a strategic mindset and a hands-on approach, I excel in translating complex business challenges into innovative AI-driven solutions, ensuring seamless integration, measurable outcomes, and exceptional client satisfaction.
 
 **<u>S</u>KILLS**
 
+- Applied AI, MCP Server/Client, Building MCP with LLM
+- LLM integrations
 - Python, Go, Node.js, Typescript
 - Docker, Kubernetes, cloud functions
-- Ollama, llama3 integration.
 - AWS, GCP, Azure
 - React
 - DevOps
+- Scrum & Agile Methodologies
 
 **<u>E</u>XPERIENCES**
 
