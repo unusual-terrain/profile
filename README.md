@@ -12,14 +12,16 @@ With a strategic mindset and a hands-on approach, I excel in translating complex
 
 **<u>S</u>KILLS**
 
-- Applied AI, MCP Server/Client, Building MCP with LLM
-- LLM integrations
-- Python, Go, Node.js, Typescript
-- Docker, Kubernetes, cloud functions
-- AWS, GCP, Azure
-- React
-- DevOps
-- Scrum & Agile Methodologies
+- **Leadership & Project Management** - Leading cross-functional teams, mentoring developers, and managing full project lifecycles using Agile and Scrum methodologies.
+-	**Stakeholder & Requirement Management** - Requirement gathering, gap analysis, and translating business objectives into technical solution.
+-	**AI & Emerging Technologies** - Applied AI, LLM Integration, AI Agents, Model Context Protocol
+-	**Programming & Development** - Python, Go, Node.js, and TypeScript | FastAPI, LoopBack 4, and React.js
+-	**Cloud-Native Architecture** - Microservices Architecture, Serverless Functions, Containerisation, Docker, Kubernetes.
+-	**Cloud Platforms & Services** - AWS, GCP, and Azure
+-	**Database & Storage Systems** - PostgreSQL with High Availability, Redis, MySQL, and MongoDB.
+-	**DevOps & Automation** - DevOps best practices, CI/CD pipelines, infrastructure as code, and automation strategies.
+
+
 
 **<u>E</u>XPERIENCES**
 
