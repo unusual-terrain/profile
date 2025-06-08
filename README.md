@@ -24,8 +24,7 @@ Solution Architect with 18+ years of experience designing and delivering cloud-n
 **Senior Engineer | Ericsson LMI, Ireland | Jan 2023 – Present**
 
 > * Led requirements gathering and solution design for Ericsson Network Manager supporting 2G-6G infrastructure.
-> * Delivered 3 proofs of concept for new cloud-native modules, accelerating innovation cycles.
-> * Reduced post-release issues by 25% through cross-system impact analysis.
+> * Delivered proofs of concepts for new cloud-native modules, accelerating innovation cycles.
 > * Authored technical study documents to guide scalable feature implementation.
 
 **Senior Technical Architect | Visionet Systems Inc. India | Jul 2022 - Jan 2023**
@@ -38,7 +37,7 @@ Solution Architect with 18+ years of experience designing and delivering cloud-n
 **Lead Technical Architect | HCL Technologies Ltd. India | Jul 2019 - Jun 2022**
 
 > * Modernized legacy systems into containerized, hybrid platforms.
-> * Led SDLC and technical oversight for 20+ engineers across multiple products.
+> * Led SDLC and technical oversight for 40+ engineers across product suit.
 > * Improved system performance by 40% through architectural optimization.
 > * Conducted framework evaluations and PoCs to reduce feature rollout times.
 
