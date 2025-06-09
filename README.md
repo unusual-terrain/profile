@@ -22,6 +22,7 @@ Solution Architect with 18+ years of experience designing and delivering cloud-n
 **<u>E</u>XPERIENCES**
 
 **Senior Engineer | Ericsson LMI, Ireland | Jan 2023 – Present**
+At Ericsson, I specialize in the cloud capabilities of Ericsson Network Manager (ENM), a software suite that enables network operators to manage their 2G to 6G infrastructure through tools for monitoring, configuration, and optimization.
 
 > * Requirement Analysis: I gather and analyse the needs of customers and product owners to identify viable solutions.
 > * Assessment of Dependencies and Impacts: I evaluate how new features or changes may influence other tools and services.
