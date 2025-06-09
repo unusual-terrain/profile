@@ -23,9 +23,11 @@ Solution Architect with 18+ years of experience designing and delivering cloud-n
 
 **Senior Engineer | Ericsson LMI, Ireland | Jan 2023 – Present**
 
-> * Led requirements gathering and solution design for Ericsson Network Manager supporting 2G-6G infrastructure.
-> * Delivered proofs of concepts for new cloud-native modules, accelerating innovation cycles.
-> * Authored technical study documents to guide scalable feature implementation.
+> * Requirement Analysis: I gather and analyse the needs of customers and product owners to identify viable solutions.
+> * Assessment of Dependencies and Impacts: I evaluate how new features or changes may influence other tools and services.
+> * Proof of Concepts: I create prototypes to test and assess various approaches.
+> * Stakeholder Communication: I collaborate with product owners and architects across different areas to ensure alignment with business objectives.
+> * Documentation: I produce technical study documents to guide ongoing development efforts.
 
 **Senior Technical Architect | Visionet Systems Inc. India | Jul 2022 - Jan 2023**
 
