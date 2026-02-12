@@ -1,6 +1,6 @@
 # SOORAJ RAJAGOPALAN
 
-> Solution Architect | Applied AI | MCP with LLM | Cloud-Native Applications | Leveraging cutting-edge technologies to solve complex business challenges
+> Solution Architect | Applied AI | MCP, LLM, Agentic AI | Cloud-Native Applications | Leveraging cutting-edge technologies to solve complex business challenges
 
 Athlone, Ireland | +353 0892164553 | [sooraj.r@live.com](mailto:sooraj.r@live.com) | [https://www.linkedin.com/in/sooraj-rajagopalan/](https://www.linkedin.com/in/sooraj-rajagopalan/)
 
@@ -16,8 +16,8 @@ Solution Architect with 18+ years of experience designing and delivering cloud-n
 * **Programming & Development** - Python, Go, Node.js, and TypeScript | FastAPI, LoopBack 4, and React.js
 * **Cloud-Native Architecture** - Microservices Architecture, Serverless Functions, Containerisation, Docker, Kubernetes.
 * **Cloud Platforms & Services** - AWS, GCP, and Azure
-* **Database & Storage Systems** - PostgreSQL with High Availability, Redis, MySQL, and MongoDB.
-* **DevOps & Automation** - DevOps best practices, CI/CD pipelines, infrastructure as code, and automation strategies.
+* **Database & Storage Systems** - PostgreSQL with High Availability, Redis, MySQL, Neo4J and MongoDB.
+* **DevOps & Automation** - DevOps best practices, CI/CD pipelines, infrastructure as code, Terraform, Ansible and automation strategies.
 
 **<u>E</u>XPERIENCES**
 
