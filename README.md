@@ -1,18 +1,18 @@
 # SOORAJ RAJAGOPALAN
 
-> Solution Architect | Applied AI | MCP, LLM, Agentic AI | Cloud-Native Applications | Leveraging cutting-edge technologies to solve complex business challenges
+> Solution Architect | Applied AI | MCP, LLM, Agentic AI | AI-Native Applications | Cloud-Native Applications | Leveraging cutting-edge technologies to solve complex business challenges
 
 Athlone, Ireland | +353 0892164553 | [sooraj.r@live.com](mailto:sooraj.r@live.com) | [https://www.linkedin.com/in/sooraj-rajagopalan/](https://www.linkedin.com/in/sooraj-rajagopalan/)
 
 **<u>P</u>ROFILE SUMMARY**
 
-Solution Architect with 18+ years of experience designing and delivering cloud-native, AI-powered applications for global enterprises. Adept at leading cross-functional teams and aligning technical strategy with business goals to drive digital transformation. Demonstrated success in modernizing legacy systems, integrating LLMs and AI agents, and building scalable architectures on AWS, GCP, and Azure. Strong communicator and strategic thinker with a focus on delivering measurable business outcomes.
+Solution Architect with 19+ years of IT industry experience, specializing in designing and delivering modern cloud-native, AI-driven applications for global enterprises. Proven ability to lead cross-functional teams and align technology strategies with business objectives to drive digital transformation. Experienced in modernizing legacy systems, integrating LLMs and AI agents, and building scalable architectures across AWS, GCP, and Azure. A strong communicator and strategic thinker focused on delivering measurable business outcomes.
 
 **<u>S</u>KILLS**
 
 * **Leadership & Project Management** - Leading cross-functional teams, mentoring developers, and managing full project lifecycles using Agile and Scrum methodologies.
 * **Stakeholder & Requirement Management** - Requirement gathering, gap analysis, and translating business objectives into technical solutions.
-* **AI & Emerging Technologies** - Applied AI, LLM Integration, AI Agents, Model Context Protocol
+* **AI & Emerging Technologies** - Applied AI, LangFlow, Vector, LLM Integration, AI Agents, Model Context Protocol.
 * **Programming & Development** - Python, Go, Node.js, and TypeScript | FastAPI, LoopBack 4, and React.js
 * **Cloud-Native Architecture** - Microservices Architecture, Serverless Functions, Containerisation, Docker, Kubernetes.
 * **Cloud Platforms & Services** - AWS, GCP, and Azure
@@ -22,7 +22,7 @@ Solution Architect with 18+ years of experience designing and delivering cloud-n
 **<u>E</u>XPERIENCES**
 
 **Senior Engineer | Ericsson LMI, Ireland | Jan 2023 – Present**
-At Ericsson, I specialize in the cloud capabilities of Ericsson Network Manager (ENM), a software suite that enables network operators to manage their 2G to 6G infrastructure through tools for monitoring, configuration, and optimization.
+Working as part of Ericsson’s internal AI development team, I contribute to building AI-native applications and LLM-driven solutions for internal stakeholders. I specialize in the cloud capabilities of Ericsson Network Manager (ENM), a software suite that enables network operators to manage their 2G to 6G infrastructure through tools for monitoring, configuration, and optimization.
 
 > * Requirement Analysis: I gather and analyse the needs of customers and product owners to identify viable solutions.
 > * Assessment of Dependencies and Impacts: I evaluate how new features or changes may influence other tools and services.
