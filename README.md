@@ -30,7 +30,7 @@ Currently driving AI solution architecture within the **Ericsson Network Managem
 
 ## 💼 Professional Experience
 
-### **Staff-Level Solution Architect & Senior Engineer (AI & Cloud)**
+### **Senior Engineer (AI & Cloud)**
 **Ericsson LMI** • Athlone, Ireland *(AI Acceleration & Ericsson Network Management — ENM)*  
 *Jan 2023 — Present*
 
